@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/Profile-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewkykwan//)](https://www.linkedin.com/in/matthewkykwan/)
 
 🎓 Graduating from Systems Engineering at UofT in 2021 Spring! <br>
-📝 Focus in software, algorithms and machine learning / AI <br>
-🌱 I’m currently learning more about full stack development and algorithms to build products that I love
+📝 Minors in Artificial Intelligence and Business <br>
+🌱 I’m currently learning more about full stack development using React, NodeJS and Express to build products that I love!
 
 **My Favourite Languages:** <br>
 ![Python](https://img.shields.io/badge/Python-blue)
