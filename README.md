@@ -9,7 +9,13 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange)
 ![HTML](https://img.shields.io/badge/HTML-green)
-![CSS](https://img.shields.io/badge/CSS-yellow)
+![CSS](https://img.shields.io/badge/CSS-yellow) <br>
+
+**My Favourite Frameworks:** <br>
+![Django](https://img.shields.io/badge/Django-blue)
+![Flask](https://img.shields.io/badge/Flask-blue)
+![React](https://img.shields.io/badge/React-07E0E7)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-orange) -->
 
 
 
