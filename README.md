@@ -1,7 +1,7 @@
 ## Hi, I'm Matthew! 👋
 [![Linkedin Badge](https://img.shields.io/badge/Profile-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewkykwan//)](https://www.linkedin.com/in/matthewkykwan/)
 
-💻 Working as a Software Engineer in healthcare
+💻 Working as a Software Engineer in healthcare <br>
 🎓 Graduated from Systems (Industrial) Engineering at the University of Toronto<br>
 📝 Minors in Artificial Intelligence and Business <br>
 🌱 I’m currently learning more about full stack development using React, NodeJS and Express to build products that I love!
