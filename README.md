@@ -9,8 +9,6 @@
 **My Favourite Languages:** <br>
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange)
-![HTML](https://img.shields.io/badge/HTML-green)
-![CSS](https://img.shields.io/badge/CSS-yellow) <br>
 
 **My Favourite Frameworks:** <br>
 ![Django](https://img.shields.io/badge/Django-blue)
