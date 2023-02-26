@@ -4,7 +4,7 @@
 💻 Working as a Software Developer at AWS<br/>
 🎓 Graduated from Systems (Industrial) Engineering at the University of Toronto<br/>
 📝 Minors in Artificial Intelligence and Business <br/>
-🌱 I'm currently learning more about iOS development
+🌱 I'm currently learning more about game development
 
 **My Favourite Languages:** <br>
 ![Python](https://img.shields.io/badge/Python-blue)
