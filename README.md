@@ -7,8 +7,10 @@
 🌱 I'm currently learning more about game development
 
 **My Favourite Languages:** <br>
-![Python](https://img.shields.io/badge/Python-blue)
+![Go](https://img.shields.io/badge/-Go-blue)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange)
+![Python](https://img.shields.io/badge/Python-blue)
 
 **My Favourite Frameworks:** <br>
 ![Django](https://img.shields.io/badge/Django-blue)
